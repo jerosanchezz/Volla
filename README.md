@@ -1,5 +1,4 @@
-# Volla: Pair Matching
-
+# Volla
 Volla is an extraordinary game for your brain, where you pick the cards and match with another. Volla, is beyond a regular pair matching game with the content and the unique design.
 
 You are going to enjoy with hundreds of different puzzles with different content. Match the pairs as fast as you can so you can gather more points. Also, your successive correct answers will produce a combo, which also grants more points to you at the end of the game.
